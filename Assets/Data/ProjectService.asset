@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a9f103e19bf674cbee8613868daa92, type: 3}
+  m_Name: ProjectService
+  m_EditorClassIdentifier: 
+  Projects:
+  - Name: Director's Director
+    Type: 2
+    People:
+    - Troy Drysdale
+    Stuff: 
+  - Name: Tech Director
+    Type: 2
+    People:
+    - Aleksandr Vragov
+    Stuff: 
+  - Name: People Director
+    Type: 1
+    People:
+    - Yurii Kainaran
+    Stuff: 
+  - Name: Estimation
+    Type: 2
+    People:
+    - Roman Malkov
+    - Aleksandr Zhdanov
+    Stuff: 
+  - Name: DevOps
+    Type: 2
+    People:
+    - Serhii Tarasov
+    Stuff: 
+  - Name: QT
+    Type: 1
+    People:
+    - Ivan Teslenko
+    - Vasyl Chechelnytskyi
+    - Yurii Zhuk
+    - Volodymyr Yevtukh
+    - Vasyl Khalimonchuk
+    Stuff: 
+  - Name: PuffPalls
+    Type: 1
+    People:
+    - Maksim Mokrishchev
+    - Ivan Pidluzhnyi
+    - Denys Kushnirenko
+    - Pravdivets Maksim
+    - Andrii Maksymov
+    Stuff: 
+  - Name: Nancy Drew
+    Type: 1
+    People:
+    - Albert Aleksanyan
+    - Aleksandr Malyk
+    - Oleg Martynevskij
+    - Serhii Moskovets
+    - Tigran Saakyan
+    - Mikhail Bezugly
+    - Anatolii Chechenin
+    - Maksym Borodko
+    - Serhii Matviienko
+    Stuff: 
+  - Name: Kriptomon
+    Type: 1
+    People:
+    - Nazar Vasylchuk
+    - Dmytro Kyselov
+    - Denys Telizhenko
+    - Nikita Fedorenko
+    Stuff: 
+  - Name: Mirrorverse
+    Type: 0
+    People:
+    - Serhii Loran
+    Stuff: 
+  - Name: 'Exinity Pip '
+    Type: 1
+    People:
+    - Danyl Nepotrebnyj
+    - Ruslan Tretiak
+    Stuff: 
+  - Name: Caesar's
+    Type: 0
+    People:
+    - Georgiy Korchenko
+    - Nikolay Kargalskiy
+    - Ivan Dobra
+    - Maksym Fedotov
+    - Oleksandr Suietskyi
+    - Artem Nekrasov
+    - Serdar Al
+    Stuff: 
+  - Name: Bingo
+    Type: 1
+    People:
+    - Minenko Alina
+    - Daryna Ostapchuk
+    - Serhii Shevchuk
+    - Hadi Zeinaldeen
+    - Oleksii Nabokov
+    - Seha Yetginer
+    - Nikolai Ermoshkin
+    Stuff: 
+  - Name: Amazon planet
+    Type: 1
+    People:
+    - Oleksandr Shevtsov
+    - Denys Kozlov
+    - Panov Oleksandr
+    Stuff: 
+  - Name: "\u0431\u0435\u0437\u043F\u043E\u043B\u0435\u0437\u043D\u043E \u0432\u043E\u043B\u043E\u0447\u0438\u0442
+      \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043D\u0438\u0435"
+    Type: 2
+    People:
+    - Anton Sokolov
+    Stuff: 
+  - Name: MILITARY
+    Type: 0
+    People:
+    - Iaroslav Poleshchuk
+    - Dmytro Krepkikh
+    Stuff: 
+  - Name: FREE
+    Type: 0
+    People:
+    - Sergei Safonov
+    - Oleksii Yurikov
+    - Oleksii Khinchuk
+    - Michaele Pompili
+    - Artem Rusavskyi
+    - Roman Dzhuzha
+    - Myroslav Dovhaliuk
+    - Marko Aleric
+    - Ihor Sarnavskyi
+    - Turkhay Mammadov
+    Stuff: 
+  - Name: FIRED
+    Type: 0
+    People:
+    - Dmytro Ilchenko
+    - Elizaveta Suzdalskaia
+    - Bunyamin Abbasov
+    Stuff: 
+  - Name: LEAVED - dragon lake
+    Type: 0
+    People:
+    - Aleksandr Shkolnyy
+    Stuff: 
+  - Name: LEAVED
+    Type: 0
+    People:
+    - Vitaliy Galavinskiy
+    - Dmitriy Chibichik
+    - Denys Romanichenko
+    - Dmitriy Bondaruk
+    - Andrei Galevich
+    - David Gnatkovskii
+    - Taisiia Halevych
+    - Yurii Habalis
+    - Oleksandr Karpets
+    Stuff: 
+  CSV: {fileID: 4900000, guid: ec859b9e4149bc443a63924e7bd1608e, type: 3}

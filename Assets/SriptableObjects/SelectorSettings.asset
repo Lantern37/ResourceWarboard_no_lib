@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 370562028b10d524c9197f7debf1ba6f, type: 3}
+  m_Name: SelectorSettings
+  m_EditorClassIdentifier: 
+  FactoriesSettings:
+    PersonFactorySettings:
+      DefaultPersonPrefab: {fileID: 151994407125338342, guid: 3ad27a267fe9f2a428b2a9a0ea0d97f6, type: 3}
+    SelectorFactorySettings:
+      StrokeSelectorSettings:
+        StrokeSelectorRect: {fileID: 2111861825079157104, guid: bde54382bf342654c99effac15c68764, type: 3}
+        MinDistance: 0.1
+  MouseKeyboardInputSettings:
+    MultiselectButton: 306
+    Clickdelay: 0.5

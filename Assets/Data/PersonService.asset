@@ -1,0 +1,473 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdbda03111dabad4ea3013316eb59898, type: 3}
+  m_Name: PersonService
+  m_EditorClassIdentifier: 
+  Records:
+  - Name: Troy Drysdale
+    Title: Technical Director
+    Project: Director's Director
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Aleksandr Vragov
+    Title: Technical Director
+    Project: Tech Director
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Yurii Kainaran
+    Title: Unity Team Lead
+    Project: People Director
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Unity Developer
+    Title: 1
+    Project: Roman Malkov
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Aleksandr Zhdanov
+    Title: Haxe Developer
+    Project: Estimation
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Serhii Tarasov
+    Title: DevOps
+    Project: DevOps
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Ivan Teslenko
+    Title: Unity Developer
+    Project: QT
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Vasyl Chechelnytskyi
+    Title: Unity Developer
+    Project: QT
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Yurii Zhuk
+    Title: Unity Developer
+    Project: QT
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Volodymyr Yevtukh
+    Title: Unity Developer
+    Project: QT
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Vasyl Khalimonchuk
+    Title: Backend Developer
+    Project: QT
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Maksim Mokrishchev
+    Title: Unity Developer
+    Project: PuffPalls
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Ivan Pidluzhnyi
+    Title: Unity Developer
+    Project: PuffPalls
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Denys Kushnirenko
+    Title: Unity Developer
+    Project: PuffPalls
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Pravdivets Maksim
+    Title: Unity Developer
+    Project: PuffPalls
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Andrii Maksymov
+    Title: Unity Developer
+    Project: PuffPalls
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Albert Aleksanyan
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Aleksandr Malyk
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleg Martynevskij
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Serhii Moskovets
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Tigran Saakyan
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Mikhail Bezugly
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Anatolii Chechenin
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Maksym Borodko
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Serhii Matviienko
+    Title: Unity Developer
+    Project: Nancy Drew
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Nazar Vasylchuk
+    Title: Unity Developer
+    Project: Kriptomon
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Dmytro Kyselov
+    Title: Unity Developer
+    Project: Kriptomon
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Denys Telizhenko
+    Title: Unity Developer
+    Project: Kriptomon
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Nikita Fedorenko
+    Title: Backend Developer
+    Project: Kriptomon
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Serhii Loran
+    Title: Unity Developer
+    Project: Mirrorverse
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Sergei Safonov
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleksii Yurikov
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleksii Khinchuk
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Michaele Pompili
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Artem Rusavskyi
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Roman Dzhuzha
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Myroslav Dovhaliuk
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Marko Aleric
+    Title: Unity Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Ihor Sarnavskyi
+    Title: Backend Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Turkhay Mammadov
+    Title: Backend Developer
+    Project: FREE
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Danyl Nepotrebnyj
+    Title: Unity Developer
+    Project: 'Exinity Pip '
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Ruslan Tretiak
+    Title: Unity Developer
+    Project: 'Exinity Pip '
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Georgiy Korchenko
+    Title: Unity Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Nikolay Kargalskiy
+    Title: Haxe Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Ivan Dobra
+    Title: Haxe Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Maksym Fedotov
+    Title: Haxe Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleksandr Suietskyi
+    Title: Haxe Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Artem Nekrasov
+    Title: Haxe Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Serdar Al
+    Title: Haxe Developer
+    Project: Caesar's
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Minenko Alina
+    Title: Team Lead
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Daryna Ostapchuk
+    Title: Unity Developer
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Serhii Shevchuk
+    Title: Backend Developer
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Hadi Zeinaldeen
+    Title: Unity Developer
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleksii Nabokov
+    Title: Unity Developer
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Seha Yetginer
+    Title: Team Lead (prob)
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Nikolai Ermoshkin
+    Title: Backend Developer
+    Project: Bingo
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleksandr Shevtsov
+    Title: Unity Developer
+    Project: Amazon planet
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Denys Kozlov
+    Title: Unity Developer
+    Project: Amazon planet
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Panov Oleksandr
+    Title: Unity Developer
+    Project: Amazon planet
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Anton Sokolov
+    Title: Unity Team Lead
+    Project: "\u0431\u0435\u0437\u043F\u043E\u043B\u0435\u0437\u043D\u043E \u0432\u043E\u043B\u043E\u0447\u0438\u0442
+      \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u043D\u0438\u0435"
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Iaroslav Poleshchuk
+    Title: Unreal Developer
+    Project: MILITARY
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Dmytro Krepkikh
+    Title: Unity Developer
+    Project: MILITARY
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Dmytro Ilchenko
+    Title: Unity Developer
+    Project: FIRED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Elizaveta Suzdalskaia
+    Title: Unity Developer
+    Project: FIRED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Bunyamin Abbasov
+    Title: Backend Developer
+    Project: FIRED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Aleksandr Shkolnyy
+    Title: Unreal Developer
+    Project: LEAVED - dragon lake
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Vitaliy Galavinskiy
+    Title: Engineering Manager
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Dmitriy Chibichik
+    Title: Technical Art Team Lead
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Denys Romanichenko
+    Title: Backend Developer
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Dmitriy Bondaruk
+    Title: Unreal Team Lead
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Andrei Galevich
+    Title: Unreal Developer
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: David Gnatkovskii
+    Title: Unity Developer
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Taisiia Halevych
+    Title: Technical Art
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Yurii Habalis
+    Title: Unity Developer
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Oleksandr Karpets
+    Title: Unity Developer
+    Project: LEAVED
+    Body: 0
+    Head: 0
+    Mark: 0
+  - Name: Roman Malkov
+    Title: Unity Developer
+    Project: Estimation
+    Body: 0
+    Head: 0
+    Mark: 0
+  CSV: {fileID: 4900000, guid: ec859b9e4149bc443a63924e7bd1608e, type: 3}
